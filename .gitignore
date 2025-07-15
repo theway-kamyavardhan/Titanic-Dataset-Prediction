@@ -1,0 +1,43 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Dataset files (optional)
+*.csv
+
+# Logs
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+
+# Submission files (optional)
+submission.csv
+
+# Python environment files (optional)
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+*.bak
